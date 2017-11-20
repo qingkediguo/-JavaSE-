@@ -1,0 +1,2 @@
+className=qingke
+methodName=qingkediguo

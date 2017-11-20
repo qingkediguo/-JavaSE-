@@ -1,0 +1,21 @@
+Alt+回车     导入包,自动修正（鼠标点到那里，用的非常多，很多报错没有像eclipse的错误提示，就只有这个来打开错误提示）
+	在一些地方按Alt＋Enter可以得到一些Intention Action，例如将”==”改为”equals()”
+Ctrl+N   查找类
+Ctrl＋Alt＋V 可以引入变量。例如把括号内的SQL赋成一个变量
+Ctrl+Alt+L  格式化代码
+Ctrl+Alt+O 优化导入的类和包
+Alt+Insert  生成代码(如get,set方法,构造函数等)
+Ctrl+空格       代码提示
+Ctrl+P	方法参数提示
+Ctrl+Shift+↓ 移动到下一行
+Ctrl+Shift+↑ 移动到上一行
+Ctrl+X 删除行
+Ctrl+D 复制行到下一行
+Ctrl+/ 或 Ctrl+Shift+/  注释（// 或者/*...*/ ）
+Ctrl+W 选中代码，连续按会有其他效果
+选中文本，按Alt+F3 ，逐个往下查找相同文本，并高亮显示。
+Ctrl＋Alt＋T可以把代码包在一块内，例如try/catch  if/else
+Ctrl＋Alt＋B可以跳转到抽象方法的实现
+Ctrl＋O可以选择父类的方法进行重写
+Alt＋F8是计算变量值
+Ctrl＋Shift＋J可以整合两行
