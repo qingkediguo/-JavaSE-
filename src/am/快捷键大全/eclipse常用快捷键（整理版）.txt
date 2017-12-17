@@ -1,12 +1,14 @@
 代码助手:Alt+/
 快速定位到错误的地方：Ctrl+.
 快速修正：Ctrl+1
+提取本地变量及方法(将来写自己的工具类用的非常多):alt+shift+l以及alt+shift+m
 格式化当前代码（用得非常多）：Ctrl+Shift+F
 在new的地方添加返回值：Alt+Shift+L
-显示重构菜单：Alt+Shift+T（不过大部分还是用鼠标操作 ）
+打开资源(打开你的工作区中任何一个文件):Ctrl+Shift+R
+显示重构菜单：Alt+Shift+T
+	重构-重命名：Alt+Shift+R
 	重构-改变方法签名：Alt+Shift+C
 	重构-移动：Alt+Shift+V
-	重构-重命名：Alt+Shift+R 
 快速Outline：Ctrl+F3或者Ctrl+O（就是程序的结构树）
 删除行：Ctrl+D
 组织导入：Ctrl+Shift+O（导包的时候经常用）
